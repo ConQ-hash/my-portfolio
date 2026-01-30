@@ -1,0 +1,7 @@
+# Hugo build folder
+public/
+resources/
+.hugo_build.lock
+
+# Mac system files
+.DS_Store
